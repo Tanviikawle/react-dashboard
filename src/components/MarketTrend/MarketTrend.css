@@ -1,0 +1,40 @@
+.nav-pills{
+    background-color: #F9FAFB;
+    border: 1px solid #EAECF0;
+}
+
+.nav-link{
+    margin: 6px;
+    color:#667085;
+    text-decoration: none;
+}
+
+a.nav-link.active{
+    background-color: white !important;
+    font-weight: bold;
+    color: #000 !important;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1); 
+}
+
+a.nav-link :hover{
+    cursor: pointer !important;
+}
+
+.marketTrendFooter{
+    background-color: #FFF8ED;
+    padding: 0px;
+    margin-top: auto;
+    border-radius: 0px 0px 5px 5px;
+}
+
+.innerCard{
+    padding: 24px 24px 0px 24px;
+}
+
+.btnStyle{
+    border: 1px solid #D0D5DD ;
+}
+
+.activeBtn{
+    background-color: #F9FAFB;
+}

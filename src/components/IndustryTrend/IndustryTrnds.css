@@ -1,0 +1,16 @@
+.dot {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+  }
+  .dot-black {
+    background-color: #000000; 
+  }
+  .dot-yellow {
+    background-color: #E1A739; 
+  }
+  .dot-dark-blue {
+    background-color: #2C678E;
+  }

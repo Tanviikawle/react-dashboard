@@ -1,0 +1,39 @@
+.sideNav{
+    background-color: #293056;
+    margin-left: 3rem !important;
+  }
+
+.sideBarIcons .sideDiv{
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  padding: 10px 12px;
+}
+
+.sideDiv.active{
+  background-color: #3E4784;
+  padding: 10px 12px;
+  border-radius: 5px;
+  
+}
+
+.bkgImg{
+  background-image: url('../../assets/logo.png');
+  background-size: cover;
+  background-position: center;
+  width: 4rem;
+  height: 4rem;
+}
+
+.user{
+  background-image: url('../../assets/user.jpg');
+  background-size: cover;
+  background-position: center;
+  width: 3.2rem;
+  height: 3.2rem;
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1024px) {
+  .sideNav {
+    margin-left: 1rem !important;
+  }
+}
